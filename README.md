@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pramuditha Bandara</h1>
 <h3 align="center">I’m an Undergraduate at SLIIT</h3>
 
+<p align="right" width = "400"<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDeveloper.gif&tbnid=47chckvIQOvI5M&vet=12ahUKEwizupaLysWDAxUnbGwGHYXTD7oQMygpegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=243&h=177&q=programmer%20gif&ved=2ahUKEwizupaLysWDAxUnbGwGHYXTD7oQMygpegUIARDNAQ /> /p> 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramuditha&label=Profile%20views&color=0e75b6&style=flat" alt="pramuditha" /> </p>
 
 - 🔭 I’m currently earning **MERN**
