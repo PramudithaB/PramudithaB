@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pramuditha Bandara</h1>
+
 <h3 align="center">I’m an Undergraduate at SLIIT</h3>
 <center><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Pramuditha+Bandara;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
