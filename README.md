@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramuditha Bandara</h1>
 <h3 align="center">I’m an Undergraduate at SLIIT</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<center><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramuditha&label=Profile%20views&color=0e75b6&style=flat" alt="pramuditha" /> </p>
 
