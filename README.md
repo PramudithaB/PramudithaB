@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning Flutter & Laravel<br><br>🧑‍🎓 I’m an Undergraduate at SLIIT<br><br>📫 How to reach me pramudithabandara12@gmail.com<br><br>⚡ Fun fact Call me as pramu_bro
+🌱 I’m currently learning Flutter & Laravel<br><br>🧑‍🎓 I’m an Undergraduate at SLIIT<br><br>📫 How to reach me pramudithabandara12@gmail.com<br><br>⚡ Fun fact Call me as pramu_bro.
 
 
 ## 🌐 Socials:
