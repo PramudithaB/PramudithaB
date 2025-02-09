@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sachintha.bandara.9277) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pramuditha_bandara_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pramuditha-bandara-9851642a9) 
 <h3>🏆 GitHub Trophies:</h3>
-
+  
  
 ![](https://github-profile-trophy.vercel.app/?username=PramudithaB&theme=algolia&no-frame=false&no-bg=false&margin-w=6) </br></br>
 # 💻 Tech Stack:
