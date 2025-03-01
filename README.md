@@ -1,4 +1,4 @@
-![pr](https://media.licdn.com/dms/image/v2/C561BAQGV0QTN0_hWZA/company-background_10000/company-background_10000/0/1595967403885/saxon_enterprises_cover?e=2147483647&v=beta&t=gptWdME4V0yZF2CaWcX1VCoFgsO4fzkUHkGgEz-QauA)
+![pr](https://media.licdn.com/dms/image/v2/C561BAQGV0QTN0_hWZA/company-background_10000/company-background_10000/0/1595967403885/saxon_enterprises_cover?e=2147483647&v=beta&t=gptWdME4V0yZF2CaWcX1VCoFgsO4fzkUHkGgEz-QauA) 
 # 💫 About Me:
 <h2 align="center">🌱 I’m currently learning Flutter & Laravel<br><br>🧑‍🎓 I’m an Undergraduate at SLIIT<br><br>📫 How to reach me pramudithabandara12@gmail.com<br><br> ⚡ Fun fact Call me as pramu_bro</h2>               
  🌐 Socials:                   
